@@ -1,18 +1,9 @@
 # Sufadi Alim from Automation Engineering
+# Shipbuilding Institute of Polytechnic Surabaya
 
-## Welcome to your Expo app 👋
+## Welcome to project Movie App with Redux in React Native app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
+Start the app
 
    ```bash
     npx expo start
