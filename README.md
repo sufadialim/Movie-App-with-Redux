@@ -1,5 +1,6 @@
-# Sufadi Alim from Automation Engineering
-# Shipbuilding Institute of Polytechnic Surabaya
+ Sufadi Alim from Automation Engineering ⚙️
+# Shipbuilding Institute of Polytechnic Surabaya ⚓
+
 
 ## Welcome to project Movie App with Redux in React Native app 👋
 
